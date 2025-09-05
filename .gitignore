@@ -2,3 +2,6 @@
 input.json
 output.json
 bulkClient_*
+*.pkg
+
+output.txt

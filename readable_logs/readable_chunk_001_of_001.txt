@@ -1,0 +1,648 @@
+=== LOG FILE CHUNK 1 OF 1 ===
+Entries 1 to 20 of 20
+Generated: 2025-07-30T13:50:49.253Z
+
+ENTRY 1
+==========
+ID: list_entity-urn:ripjar:lag-mod-luj-guj
+Name: Seke District
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-03-01T00:00:00.000Z
+Last Seen: 2016-03-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 17
+Profile Locations Count: 2
+Enhanced Risk Countries: Zimbabwe
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Zimbabwe (ZW)
+  2. Zimbabwe (ZW) - Lat: -19, Lon: 29.75
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] せけちく
+  2. [originalScriptPrimaryName] セケチク
+  3. [originalScriptPrimaryName] セケ地区
+  4. [originalScriptPrimaryName] 塞凯镇
+  5. [alsoKnownAs] Seke
+  ... and 12 more aliases
+
+==================================================
+
+ENTRY 2
+==========
+ID: list_entity-urn:ripjar:noq-yum-huk-nit
+Name: Roberts International Airport
+Type: location
+Subtype: airport
+Action: add
+Active Status: Active
+First Seen: 2016-03-01T00:00:00.000Z
+Last Seen: 2016-03-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 36
+Profile Locations Count: 2
+Identity Numbers: IATA Location ID Code: ROB
+Enhanced Risk Countries: Liberia
+
+Lists:
+  1. Airport (dj:minor:84) - Active: true
+
+Profile Locations:
+  1. Liberia (LR)
+  2. Liberia (LR) - Lat: 6.5, Lon: -9.5
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] ろばーつこくさいくうこう
+  2. [originalScriptPrimaryName] ロバーツコクサイクウコウ
+  3. [originalScriptPrimaryName] ロバーツ国際空港
+  4. [originalScriptPrimaryName] 罗伯茨国际机场
+  5. [originalScriptName] もんろびあ・ろばーつくうこう
+  ... and 31 more aliases
+
+==================================================
+
+ENTRY 3
+==========
+ID: list_entity-urn:ripjar:tog-beg-fit-vaz
+Name: Port of Balhaf
+Type: location
+Subtype: port
+Action: add
+Active Status: Active
+First Seen: 2016-06-01T00:00:00.000Z
+Last Seen: 2016-06-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 11
+Profile Locations Count: 2
+Identity Numbers: UN/LOCODE Location Code: YEBLH
+Enhanced Risk Countries: Yemen
+
+Lists:
+  1. Port (dj:minor:88) - Active: true
+
+Profile Locations:
+  1. Yemen (YE)
+  2. Yemen (YE) - Lat: 15.5, Lon: 47.5
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] ميناء بلحاف
+  2. [originalScriptPrimaryName] ばるはふこう
+  3. [originalScriptPrimaryName] バルハフコウ
+  4. [originalScriptPrimaryName] バルハフ港
+  5. [originalScriptPrimaryName] 巴尔哈夫
+  ... and 6 more aliases
+
+==================================================
+
+ENTRY 4
+==========
+ID: list_entity-urn:ripjar:xeq-niq-lar-few
+Name: Nalut
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-03-01T00:00:00.000Z
+Last Seen: 2016-03-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 23
+Profile Locations Count: 2
+Enhanced Risk Countries: Libya
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Libya (LY)
+  2. Libya (LY) - Lat: 28, Lon: 17
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] نالوت
+  2. [originalScriptPrimaryName] なると
+  3. [originalScriptPrimaryName] ナルト
+  4. [originalScriptPrimaryName] 纳卢特
+  5. [alsoKnownAs] Nalut
+  ... and 18 more aliases
+
+==================================================
+
+ENTRY 5
+==========
+ID: list_entity-urn:ripjar:far-lek-kek-bor
+Name: Erigavo
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-04-01T00:00:00.000Z
+Last Seen: 2016-04-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 29
+Profile Locations Count: 2
+Enhanced Risk Countries: Somalia
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Somalia (SO)
+  2. Somalia (SO) - Lat: 6, Lon: 48
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] عيرقابو
+  2. [originalScriptPrimaryName] せりがぼ
+  3. [originalScriptPrimaryName] セリガボ
+  4. [originalScriptPrimaryName] 埃里加博
+  5. [alsoKnownAs] Cerigaabo
+  ... and 24 more aliases
+
+==================================================
+
+ENTRY 6
+==========
+ID: list_entity-urn:ripjar:qip-qos-qun-kiy
+Name: Myongchon
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2022-03-30T00:00:00.000Z
+Last Seen: 2022-03-30T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 11
+Profile Locations Count: 2
+Enhanced Risk Countries: North Korea
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. North Korea (KP)
+  2. Dem. Rep. Korea (KP) - Lat: 40, Lon: 127
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] みょうせん
+  2. [originalScriptPrimaryName] ミョウセン
+  3. [originalScriptPrimaryName] みょんちょん
+  4. [originalScriptPrimaryName] ミョンチョン
+  5. [originalScriptPrimaryName] 명천
+  ... and 6 more aliases
+
+==================================================
+
+ENTRY 7
+==========
+ID: list_entity-urn:ripjar:wid-sal-gud-ceq
+Name: Bandar Torkaman
+Type: location
+Subtype: city
+Action: add
+Active Status: Active
+First Seen: 2016-01-01T00:00:00.000Z
+Last Seen: 2016-01-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 25
+Profile Locations Count: 2
+Enhanced Risk Countries: Iran
+
+Lists:
+  1. City (dj:minor:85) - Active: true
+
+Profile Locations:
+  1. Iran (IR)
+  2. Iran (IR) - Lat: 32, Lon: 53
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] بندر تركمن
+  2. [originalScriptPrimaryName] ばんだれ・とるきゃまん
+  3. [originalScriptPrimaryName] バンダレ・トルキャマン
+  4. [originalScriptPrimaryName] 托尔卡曼港
+  5. [alsoKnownAs] Bandar Torkaman
+  ... and 20 more aliases
+
+==================================================
+
+ENTRY 8
+==========
+ID: list_entity-urn:ripjar:yec-jus-xux-fog
+Name: Buuloburde
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-04-01T00:00:00.000Z
+Last Seen: 2016-04-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 37
+Profile Locations Count: 2
+Enhanced Risk Countries: Somalia
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Somalia (SO)
+  2. Somalia (SO) - Lat: 6, Lon: 48
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] بوولو بورد
+  2. [originalScriptPrimaryName] びゅーろばーど
+  3. [originalScriptPrimaryName] ビューロバード
+  4. [originalScriptPrimaryName] 布罗布地
+  5. [alsoKnownAs] Bulo Burde
+  ... and 32 more aliases
+
+==================================================
+
+ENTRY 9
+==========
+ID: list_entity-urn:ripjar:hev-zes-fed-dej
+Name: Zelva District
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2015-12-01T00:00:00.000Z
+Last Seen: 2015-12-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 68
+Profile Locations Count: 2
+Enhanced Risk Countries: Belarus
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Belarus (BY)
+  2. Belarus (BY) - Lat: 53, Lon: 28
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] Зельвенский район
+  2. [originalScriptPrimaryName] Зэльвенскі раён
+  3. [originalScriptPrimaryName] ぜりヴぁらよん
+  4. [originalScriptPrimaryName] ゼリヴァラヨン
+  5. [originalScriptPrimaryName] 泽尔瓦地区
+  ... and 63 more aliases
+
+==================================================
+
+ENTRY 10
+==========
+ID: list_entity-urn:ripjar:poc-vep-yuh-pep
+Name: Saidsadiq
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-03-01T00:00:00.000Z
+Last Seen: 2016-03-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 13
+Profile Locations Count: 2
+Enhanced Risk Countries: Iraq
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Iraq (IQ)
+  2. Iraq (IQ) - Lat: 33, Lon: 44
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] سيد صادق
+  2. [originalScriptPrimaryName] さいどさでぃっく
+  3. [originalScriptPrimaryName] サイドサディック
+  4. [originalScriptPrimaryName] 赛德塞迪格
+  5. [originalScriptName] さいど　さでぃっく
+  ... and 8 more aliases
+
+==================================================
+
+ENTRY 11
+==========
+ID: list_entity-urn:ripjar:kat-raz-saq-por
+Name: Nay Pyi Taw
+Type: location
+Subtype: city
+Action: add
+Active Status: Active
+First Seen: 2024-12-12T00:00:00.000Z
+Last Seen: 2024-12-12T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 22
+Profile Locations Count: 2
+Enhanced Risk Countries: Myanmar
+
+Lists:
+  1. City (dj:minor:85) - Active: true
+
+Profile Locations:
+  1. Myanmar (MM)
+  2. Myanmar (MM) - Lat: 21, Lon: 96
+
+Aliases (first 5):
+  1. [primaryName] နေပြည်တော်
+  2. [primaryName] ネピドー
+  3. [primaryName] ねぴどー
+  4. [primaryName] 内比都
+  5. [alsoKnownAs] ねーぴーどー
+  ... and 17 more aliases
+
+==================================================
+
+ENTRY 12
+==========
+ID: list_entity-urn:ripjar:muf-dij-mah-ney
+Name: Kangryong
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-07-01T00:00:00.000Z
+Last Seen: 2016-07-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 13
+Profile Locations Count: 2
+Enhanced Risk Countries: North Korea
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. North Korea (KP)
+  2. Dem. Rep. Korea (KP) - Lat: 40, Lon: 127
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] かんりょん
+  2. [originalScriptPrimaryName] カンリョン
+  3. [originalScriptPrimaryName] 강령
+  4. [originalScriptPrimaryName] 康リョン
+  5. [originalScriptPrimaryName] 康翎
+  ... and 8 more aliases
+
+==================================================
+
+ENTRY 13
+==========
+ID: list_entity-urn:ripjar:guq-caq-yoc-bes
+Name: Baidoa
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-04-01T00:00:00.000Z
+Last Seen: 2016-04-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 22
+Profile Locations Count: 2
+Enhanced Risk Countries: Somalia
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Somalia (SO)
+  2. Somalia (SO) - Lat: 6, Lon: 48
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] بيدوا
+  2. [originalScriptPrimaryName] ばいどあ
+  3. [originalScriptPrimaryName] バイドア
+  4. [originalScriptPrimaryName] 拜多阿
+  5. [alsoKnownAs] Baidoa
+  ... and 17 more aliases
+
+==================================================
+
+ENTRY 14
+==========
+ID: list_entity-urn:ripjar:fix-jin-hav-poz
+Name: Hyongjesan
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-07-01T00:00:00.000Z
+Last Seen: 2016-07-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 16
+Profile Locations Count: 2
+Enhanced Risk Countries: North Korea
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. North Korea (KP)
+  2. Dem. Rep. Korea (KP) - Lat: 40, Lon: 127
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] ひょんじぇさん
+  2. [originalScriptPrimaryName] ヒョンジェサン
+  3. [originalScriptPrimaryName] 兄弟山
+  4. [originalScriptPrimaryName] 兄弟山
+  5. [originalScriptPrimaryName] 兄弟山
+  ... and 11 more aliases
+
+==================================================
+
+ENTRY 15
+==========
+ID: list_entity-urn:ripjar:gad-gop-hub-keb
+Name: Halabja
+Type: location
+Subtype: city
+Action: add
+Active Status: Active
+First Seen: 2016-03-01T00:00:00.000Z
+Last Seen: 2016-03-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 10
+Profile Locations Count: 2
+Enhanced Risk Countries: Iraq
+
+Lists:
+  1. City (dj:minor:85) - Active: true
+
+Profile Locations:
+  1. Iraq (IQ)
+  2. Iraq (IQ) - Lat: 33, Lon: 44
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] حلبجة
+  2. [originalScriptPrimaryName] はらぶじゃ
+  3. [originalScriptPrimaryName] ハラブジャ
+  4. [originalScriptPrimaryName] 哈莱卜杰
+  5. [alsoKnownAs] Halabja
+  ... and 5 more aliases
+
+==================================================
+
+ENTRY 16
+==========
+ID: list_entity-urn:ripjar:mey-gej-kij-wit
+Name: Dawei Airport
+Type: location
+Subtype: airport
+Action: add
+Active Status: Active
+First Seen: 2024-12-13T00:00:00.000Z
+Last Seen: 2024-12-13T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 15
+Profile Locations Count: 2
+Identity Numbers: IATA Location ID Code: TVY
+Enhanced Risk Countries: Myanmar
+
+Lists:
+  1. Airport (dj:minor:84) - Active: true
+
+Profile Locations:
+  1. Myanmar (MM)
+  2. Myanmar (MM) - Lat: 21, Lon: 96
+
+Aliases (first 5):
+  1. [primaryName] ထားဝယ်လေဆိပ်
+  2. [primaryName] だうぇーくうこう
+  3. [primaryName] ダウェークウコウ
+  4. [primaryName] ダウェー空港
+  5. [primaryName] 土瓦机场
+  ... and 10 more aliases
+
+==================================================
+
+ENTRY 17
+==========
+ID: list_entity-urn:ripjar:sot-fub-lor-vot
+Name: Seiyun
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2016-06-01T00:00:00.000Z
+Last Seen: 2016-06-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 23
+Profile Locations Count: 2
+Enhanced Risk Countries: Yemen
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Yemen (YE)
+  2. Yemen (YE) - Lat: 15.5, Lon: 47.5
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] سيئون
+  2. [originalScriptPrimaryName] さゆんぐん
+  3. [originalScriptPrimaryName] サユングン
+  4. [originalScriptPrimaryName] サユン郡
+  5. [originalScriptPrimaryName] 赛云
+  ... and 18 more aliases
+
+==================================================
+
+ENTRY 18
+==========
+ID: list_entity-urn:ripjar:lus-jaf-zof-yuz
+Name: Kamenets District
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Active
+First Seen: 2015-12-01T00:00:00.000Z
+Last Seen: 2015-12-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 98
+Profile Locations Count: 2
+Enhanced Risk Countries: Belarus
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: true
+
+Profile Locations:
+  1. Belarus (BY)
+  2. Belarus (BY) - Lat: 53, Lon: 28
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] Каменецкий район
+  2. [originalScriptPrimaryName] Камянецкі раён
+  3. [originalScriptPrimaryName] かめねつらよん
+  4. [originalScriptPrimaryName] カメネツラヨン
+  5. [originalScriptPrimaryName] 卡梅涅茨地区
+  ... and 93 more aliases
+
+==================================================
+
+ENTRY 19
+==========
+ID: list_entity-urn:ripjar:paw-xan-ses-may
+Name: Bouna Department
+Type: location
+Subtype: sub-region
+Action: add
+Active Status: Inactive
+First Seen: 2016-06-01T00:00:00.000Z
+Last Seen: 2016-06-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 16
+Profile Locations Count: 2
+Enhanced Risk Countries: Cote d'Ivoire
+
+Lists:
+  1. Sub-Region (dj:minor:90) - Active: false
+
+Profile Locations:
+  1. Cote d'Ivoire (CI)
+  2. Côte d'Ivoire (CI) - Lat: 8, Lon: -5.5
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] ぶーなぶ
+  2. [originalScriptPrimaryName] ブーナブ
+  3. [originalScriptPrimaryName] ブーナ部
+  4. [originalScriptPrimaryName] 布纳省
+  5. [alsoKnownAs] Departamento de Bouna
+  ... and 11 more aliases
+
+==================================================
+
+ENTRY 20
+==========
+ID: list_entity-urn:ripjar:jeh-vov-yac-fid
+Name: Port of Hormuz
+Type: location
+Subtype: port
+Action: add
+Active Status: Active
+First Seen: 2016-01-01T00:00:00.000Z
+Last Seen: 2016-01-01T00:00:00.000Z
+Lists Count: 1
+Aliases Count: 11
+Profile Locations Count: 2
+Identity Numbers: UN/LOCODE Location Code: IRHOR
+Enhanced Risk Countries: Iran
+
+Lists:
+  1. Port (dj:minor:88) - Active: true
+
+Profile Locations:
+  1. Iran (IR)
+  2. Iran (IR) - Lat: 32, Lon: 53
+
+Aliases (first 5):
+  1. [originalScriptPrimaryName] بندر هرمز
+  2. [originalScriptPrimaryName] ほるむずこう
+  3. [originalScriptPrimaryName] ホルムズコウ
+  4. [originalScriptPrimaryName] ホルムズ港
+  5. [originalScriptPrimaryName] 荷姆茲港
+  ... and 6 more aliases
+
+==================================================
+

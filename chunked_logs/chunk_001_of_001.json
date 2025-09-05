@@ -1,0 +1,4830 @@
+[
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:lag-mod-luj-guj",
+      "listId": "lag-mod-luj-guj",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538244385,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166926"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1456790400000,
+      "lastSeen": 1456790400000,
+      "firstSignificantSeen": 1456790400000,
+      "lastSignificantSeen": 1456790400000,
+      "lastSignificantUpdate": 1456790400000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166926",
+          "name": "seke district"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Zimbabwe"
+      ],
+      "enhancedRiskCountryCode": [
+        "ZW"
+      ],
+      "profileLocations": [
+        {
+          "country": "Zimbabwe",
+          "country_code": "ZW",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Zimbabwe",
+          "country_centroid": "Zimbabwe:29.852193343157825:-19.025696405661748",
+          "country_code": "ZW",
+          "location": {
+            "lat": -19,
+            "lon": 29.75
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              29.75,
+              -19
+            ]
+          },
+          "text": "Republic Of Zimbabwe",
+          "value": "Republic Of Zimbabwe",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "せけちく"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "セケチク"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "セケ地区"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "塞凯镇"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Seke"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "せけ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "セケ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "塞凯"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "瑟克"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "瑟克镇"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Seke"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Distrito de Seke"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "District de Seke"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Seke Bezirk"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Seke"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Seke"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bezirk Seke"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Seke District",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:lag-mod-luj-guj",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:noq-yum-huk-nit",
+      "listId": "noq-yum-huk-nit",
+      "lists": [
+        {
+          "id": "dj:minor:84",
+          "name": "Airport",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:84",
+              "name": "Airport",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538248476,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3167847"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1456790400000,
+      "lastSeen": 1456790400000,
+      "firstSignificantSeen": 1456790400000,
+      "lastSignificantSeen": 1456790400000,
+      "lastSignificantUpdate": 1456790400000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3167847",
+          "name": "roberts international airport"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "identityNumbers": [
+        {
+          "type": "IATA Location ID Code",
+          "value": "ROB"
+        }
+      ],
+      "enhancedRiskCountry": [
+        "Liberia"
+      ],
+      "enhancedRiskCountryCode": [
+        "LR"
+      ],
+      "profileLocations": [
+        {
+          "country": "Liberia",
+          "country_code": "LR",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Liberia",
+          "country_centroid": "Liberia:-9.320985380555104:6.454877814503817",
+          "country_code": "LR",
+          "location": {
+            "lat": 6.5,
+            "lon": -9.5
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              -9.5,
+              6.5
+            ]
+          },
+          "text": "Republic Of Liberia",
+          "value": "Republic Of Liberia",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ろばーつこくさいくうこう"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ロバーツコクサイクウコウ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ロバーツ国際空港"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "罗伯茨国际机场"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "もんろびあ・ろばーつくうこう"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "モンロビア・ロバーツクウコウ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "もんろびあ・ろばーつこくさい"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "モンロビア・ロバーツコクサイ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "もんろびあ・ろばーつこくさいくうこう"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "モンロビア・ロバーツコクサイクウコウ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "モンロビア・ロバーツ国際"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "モンロビア・ロバーツ国際空港"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "モンロビア・ロバーツ空港"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ろばーつふぃーるど"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ロバーツフィールド"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "雷德蒙城市机场"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Robertsfield"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Robertsfield"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Monrovia Roberts International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeropuerto Internacional Roberts"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Monrovia Roberts"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aéroport Roberts International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeropuerto Roberts International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Flughafen Monrovia"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Monrovia Roberts International Airport"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Monrovia Roberts"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeroport Roberts International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeropuerto Monrovia Roberts"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Flughafen Roberts International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeroport de Monrovia Roberts International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aéroport de Monrovia Roberts International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeroport Robertsfield International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aéroport Robertsfield International"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Monrovia Roberts"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeropuerto de Monrovia Roberts"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Monrovia Roberts Airport"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Roberts International Airport",
+      "subtype": "airport"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:noq-yum-huk-nit",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:tog-beg-fit-vaz",
+      "listId": "tog-beg-fit-vaz",
+      "lists": [
+        {
+          "id": "dj:minor:88",
+          "name": "Port",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:88",
+              "name": "Port",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538250355,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:10010226"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1464739200000,
+      "lastSeen": 1464739200000,
+      "firstSignificantSeen": 1464739200000,
+      "lastSignificantSeen": 1464739200000,
+      "lastSignificantUpdate": 1464739200000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:10010226",
+          "name": "port of balhaf"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "identityNumbers": [
+        {
+          "type": "UN/LOCODE Location Code",
+          "value": "YEBLH"
+        }
+      ],
+      "enhancedRiskCountry": [
+        "Yemen"
+      ],
+      "enhancedRiskCountryCode": [
+        "YE"
+      ],
+      "profileLocations": [
+        {
+          "country": "Yemen",
+          "country_code": "YE",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Yemen",
+          "country_centroid": "Yemen:47.55220311917004:15.949648202587696",
+          "country_code": "YE",
+          "location": {
+            "lat": 15.5,
+            "lon": 47.5
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              47.5,
+              15.5
+            ]
+          },
+          "text": "Republic Of Yemen",
+          "value": "Republic Of Yemen",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ميناء بلحاف"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ばるはふこう"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "バルハフコウ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "バルハフ港"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "巴尔哈夫"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hafen Balhaf"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Port de Balhaf"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Puerto de Balhaf"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Balhaf"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Balhaf"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Balhaf"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Port of Balhaf",
+      "subtype": "port"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:tog-beg-fit-vaz",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:xeq-niq-lar-few",
+      "listId": "xeq-niq-lar-few",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538250816,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166045"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1456790400000,
+      "lastSeen": 1456790400000,
+      "firstSignificantSeen": 1456790400000,
+      "lastSignificantSeen": 1456790400000,
+      "lastSignificantUpdate": 1456790400000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166045",
+          "name": "nalut"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Libya"
+      ],
+      "enhancedRiskCountryCode": [
+        "LY"
+      ],
+      "profileLocations": [
+        {
+          "country": "Libya",
+          "country_code": "LY",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Libya",
+          "country_centroid": "Libya:17.98189860454195:27.155372967079643",
+          "country_code": "LY",
+          "location": {
+            "lat": 28,
+            "lon": 17
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              17,
+              28
+            ]
+          },
+          "text": "Libya",
+          "value": "Libya",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "نالوت"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "なると"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ナルト"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "纳卢特"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nalut"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nalut"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Lalut"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Lalut"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "なーるーと"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ナールート"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "らるーと"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ラルート"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "那鲁特"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Lalut"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Lalut"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nalout"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nalout"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Lalout"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Lalout"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nalout"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nalout"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Lalout"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nalut"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Nalut",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:xeq-niq-lar-few",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:far-lek-kek-bor",
+      "listId": "far-lek-kek-bor",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538251238,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166577"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1459468800000,
+      "lastSeen": 1459468800000,
+      "firstSignificantSeen": 1459468800000,
+      "lastSignificantSeen": 1459468800000,
+      "lastSignificantUpdate": 1459468800000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166577",
+          "name": "erigavo"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Somalia"
+      ],
+      "enhancedRiskCountryCode": [
+        "SO"
+      ],
+      "profileLocations": [
+        {
+          "country": "Somalia",
+          "country_code": "SO",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Somalia",
+          "country_centroid": "Somalia:45.720116547311456:4.773814023162615",
+          "country_code": "SO",
+          "location": {
+            "lat": 6,
+            "lon": 48
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              48,
+              6
+            ]
+          },
+          "text": "Somalia",
+          "value": "Somalia",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "عيرقابو"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "せりがぼ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "セリガボ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "埃里加博"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Cerigaabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Erigavo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Erigabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Erigavo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Ceerigaabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Ceerigaabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Ceerigabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Ceerigabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Cerigaabo"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "عيرجابو"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "エリガヴォ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "えりがぼ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "エリガボ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "埃里加伏"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "西里加博"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Cerigaabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Erigavo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Ceerigabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Cerigaabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Ceerigaabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Erigabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Ceerigaabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Ceerigabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Erigabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Erigabo"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Erigavo",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:far-lek-kek-bor",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:qip-qos-qun-kiy",
+      "listId": "qip-qos-qun-kiy",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538251873,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166430"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1648598400000,
+      "lastSeen": 1648598400000,
+      "firstSignificantSeen": 1648598400000,
+      "lastSignificantSeen": 1648598400000,
+      "lastSignificantUpdate": 1648598400000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166430",
+          "name": "myongchon"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "North Korea"
+      ],
+      "enhancedRiskCountryCode": [
+        "KP"
+      ],
+      "profileLocations": [
+        {
+          "country": "North Korea",
+          "country_code": "KP",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Dem. Rep. Korea",
+          "country_centroid": "Dem. Rep. Korea:127.20357204305206:40.185023369045894",
+          "country_code": "KP",
+          "location": {
+            "lat": 40,
+            "lon": 127
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              127,
+              40
+            ]
+          },
+          "text": "Democratic People’S Republic Of Korea",
+          "value": "Democratic People’S Republic Of Korea",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "みょうせん"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ミョウセン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "みょんちょん"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ミョンチョン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "명천"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "明川"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "明川"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "明川"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Myongchon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Myongchon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Myongchon"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Myongchon",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:qip-qos-qun-kiy",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:wid-sal-gud-ceq",
+      "listId": "wid-sal-gud-ceq",
+      "lists": [
+        {
+          "id": "dj:minor:85",
+          "name": "City",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:85",
+              "name": "City",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538252683,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3165368"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1451606400000,
+      "lastSeen": 1451606400000,
+      "firstSignificantSeen": 1451606400000,
+      "lastSignificantSeen": 1451606400000,
+      "lastSignificantUpdate": 1451606400000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3165368",
+          "name": "bandar torkaman"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Iran"
+      ],
+      "enhancedRiskCountryCode": [
+        "IR"
+      ],
+      "profileLocations": [
+        {
+          "country": "Iran",
+          "country_code": "IR",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Iran",
+          "country_centroid": "Iran:54.19276722269903:32.77186077414545",
+          "country_code": "IR",
+          "location": {
+            "lat": 32,
+            "lon": 53
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              53,
+              32
+            ]
+          },
+          "text": "Islamic Republic Of Iran",
+          "value": "Islamic Republic Of Iran",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "بندر تركمن"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ばんだれ・とるきゃまん"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "バンダレ・トルキャマン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "托尔卡曼港"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar e Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar-e Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar-e Torkman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar e Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar e Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar e Torkman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar Torkeman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar e Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar-e Torkman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar e Torkman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar-e Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar-e Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar e Torkeman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar-e Torkaman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar-e Torkeman"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bandar Torkman"
+        },
+        {
+          "type": "formerlyKnownAs",
+          "name": "Bandar e Shah"
+        },
+        {
+          "type": "formerlyKnownAs",
+          "name": "Bandar-e Shah"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Bandar Torkaman",
+      "subtype": "city"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:wid-sal-gud-ceq",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:yec-jus-xux-fog",
+      "listId": "yec-jus-xux-fog",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538253015,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166554"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1459468800000,
+      "lastSeen": 1459468800000,
+      "firstSignificantSeen": 1459468800000,
+      "lastSignificantSeen": 1459468800000,
+      "lastSignificantUpdate": 1459468800000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166554",
+          "name": "buuloburde"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Somalia"
+      ],
+      "enhancedRiskCountryCode": [
+        "SO"
+      ],
+      "profileLocations": [
+        {
+          "country": "Somalia",
+          "country_code": "SO",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Somalia",
+          "country_centroid": "Somalia:45.720116547311456:4.773814023162615",
+          "country_code": "SO",
+          "location": {
+            "lat": 6,
+            "lon": 48
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              48,
+              6
+            ]
+          },
+          "text": "Somalia",
+          "value": "Somalia",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "بوولو بورد"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "びゅーろばーど"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ビューロバード"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "布罗布地"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo Burde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo-Burte"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo Burte"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "布洛巴尔德"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "布洛布尔德"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulobarde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulobarde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulobarde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulobarde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buuloburde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulo Berde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulo Burde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo Burti"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulo Barte"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buloburde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo-Burde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulo Burte"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buuloburde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulo-Burte"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buloburde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulobarde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulobarde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo Burde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo Burti"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buloburde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo-Burde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buloburde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulobarde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buulo Barde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Buuloburde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulobarde"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo-Burte"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bulo Burte"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Buuloburde",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:yec-jus-xux-fog",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:hev-zes-fed-dej",
+      "listId": "hev-zes-fed-dej",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538253631,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3164658"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1448928000000,
+      "lastSeen": 1448928000000,
+      "firstSignificantSeen": 1448928000000,
+      "lastSignificantSeen": 1448928000000,
+      "lastSignificantUpdate": 1448928000000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3164658",
+          "name": "zelva district"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Belarus"
+      ],
+      "enhancedRiskCountryCode": [
+        "BY"
+      ],
+      "profileLocations": [
+        {
+          "country": "Belarus",
+          "country_code": "BY",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Belarus",
+          "country_centroid": "Belarus:28.04243245507037:53.57878468824302",
+          "country_code": "BY",
+          "location": {
+            "lat": 53,
+            "lon": 28
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              28,
+              53
+            ]
+          },
+          "text": "Republic Of Belarus",
+          "value": "Republic Of Belarus",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "Зельвенский район"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "Зэльвенскі раён"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ぜりヴぁらよん"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ゼリヴァラヨン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "泽尔瓦地区"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "District de Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Distrito de Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Verwaltungsbezirk Selwa"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Verwaltungsbezirk Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raion de Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raion de Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raión de Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raïon de Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Zelvenksi"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Zelvenksii"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Zelvenksiy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Zelvenksy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Selwa"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelva"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "Зельва"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "Зэльва"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "Зэльвенскі раен"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ぜりヴぁ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ゼリヴァ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ゼリヴァチク"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ゼリヴァラヨンチク"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ぜりぶぁ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ゼリブァ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ぜりぶぁちく"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ゼリブァチク"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ぜりぶぁらよん"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ゼリブァラヨン"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ぜりぶぁらよんちく"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ゼリブァラヨンチク"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ぜるヴぁ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ゼルヴァ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "泽尔文斯基"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "泽尔文斯基地区"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "泽尔瓦"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelva"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zel'va"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksi"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksi"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksi District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksi rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksi rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksii"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksii"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksii District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksii rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksii rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksiirayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksirayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksiy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksiy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksiy District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksiy rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksiy rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksiyrayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksy District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksy rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksy rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelvenksyrayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Zelwa"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Zelva District",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:hev-zes-fed-dej",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:poc-vep-yuh-pep",
+      "listId": "poc-vep-yuh-pep",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538255205,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3165618"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1456790400000,
+      "lastSeen": 1456790400000,
+      "firstSignificantSeen": 1456790400000,
+      "lastSignificantSeen": 1456790400000,
+      "lastSignificantUpdate": 1456790400000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3165618",
+          "name": "saidsadiq"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Iraq"
+      ],
+      "enhancedRiskCountryCode": [
+        "IQ"
+      ],
+      "profileLocations": [
+        {
+          "country": "Iraq",
+          "country_code": "IQ",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Iraq",
+          "country_centroid": "Iraq:43.73034686802826:33.109779224954906",
+          "country_code": "IQ",
+          "location": {
+            "lat": 33,
+            "lon": 44
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              44,
+              33
+            ]
+          },
+          "text": "Republic Of Iraq",
+          "value": "Republic Of Iraq",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "سيد صادق"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "さいどさでぃっく"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "サイドサディック"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "赛德塞迪格"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "さいど　さでぃっく"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "サイド　サディック"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Said Sadiq"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Saidsadiq"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Said Sadiq"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Saidsadiq"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Saiyid Sadiq"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Said Sadiq"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Said Sadiq"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Saidsadiq",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:poc-vep-yuh-pep",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:kat-raz-saq-por",
+      "listId": "kat-raz-saq-por",
+      "lists": [
+        {
+          "id": "dj:minor:85",
+          "name": "City",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:85",
+              "name": "City",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538255967,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166147"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1733961600000,
+      "lastSeen": 1733961600000,
+      "firstSignificantSeen": 1733961600000,
+      "lastSignificantSeen": 1733961600000,
+      "lastSignificantUpdate": 1733961600000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166147",
+          "name": "nay pyi taw"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Myanmar"
+      ],
+      "enhancedRiskCountryCode": [
+        "MM"
+      ],
+      "profileLocations": [
+        {
+          "country": "Myanmar",
+          "country_code": "MM",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Myanmar",
+          "country_centroid": "Myanmar:96.48641885604367:21.336495919575242",
+          "country_code": "MM",
+          "location": {
+            "lat": 21,
+            "lon": 96
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              96,
+              21
+            ]
+          },
+          "text": "Union Of Burma",
+          "value": "Union Of Burma",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "primaryName",
+          "name": "နေပြည်တော်"
+        },
+        {
+          "type": "primaryName",
+          "name": "ネピドー"
+        },
+        {
+          "type": "primaryName",
+          "name": "ねぴどー"
+        },
+        {
+          "type": "primaryName",
+          "name": "内比都"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "ねーぴーどー"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "ネーピードー"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naypyitaw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naipyido"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naypyitaw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nay Pyi Taw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naypyidaw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naypyitaw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naypyidaw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naipyidó"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naypyitaw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nay Pyi Taw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naypyidaw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Naypyidaw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nay Pyi Daw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nay Pyi Taw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nay Pyi Daw"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Nay Pyi Daw"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Nay Pyi Taw",
+      "subtype": "city"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:kat-raz-saq-por",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:muf-dij-mah-ney",
+      "listId": "muf-dij-mah-ney",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538256601,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166360"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1467331200000,
+      "lastSeen": 1467331200000,
+      "firstSignificantSeen": 1467331200000,
+      "lastSignificantSeen": 1467331200000,
+      "lastSignificantUpdate": 1467331200000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166360",
+          "name": "kangryong"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "North Korea"
+      ],
+      "enhancedRiskCountryCode": [
+        "KP"
+      ],
+      "profileLocations": [
+        {
+          "country": "North Korea",
+          "country_code": "KP",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Dem. Rep. Korea",
+          "country_centroid": "Dem. Rep. Korea:127.20357204305206:40.185023369045894",
+          "country_code": "KP",
+          "location": {
+            "lat": 40,
+            "lon": 127
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              127,
+              40
+            ]
+          },
+          "text": "Democratic People’S Republic Of Korea",
+          "value": "Democratic People’S Republic Of Korea",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "かんりょん"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "カンリョン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "강령"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "康リョン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "康翎"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "康翎"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "康翎"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kangryong"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kangryong"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kangryong"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "こうりょん"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "コウリョン"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kangryŏng"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Kangryong",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:muf-dij-mah-ney",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:guq-caq-yoc-bes",
+      "listId": "guq-caq-yoc-bes",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538257157,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166533"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1459468800000,
+      "lastSeen": 1459468800000,
+      "firstSignificantSeen": 1459468800000,
+      "lastSignificantSeen": 1459468800000,
+      "lastSignificantUpdate": 1459468800000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166533",
+          "name": "baidoa"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Somalia"
+      ],
+      "enhancedRiskCountryCode": [
+        "SO"
+      ],
+      "profileLocations": [
+        {
+          "country": "Somalia",
+          "country_code": "SO",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Somalia",
+          "country_centroid": "Somalia:45.720116547311456:4.773814023162615",
+          "country_code": "SO",
+          "location": {
+            "lat": 6,
+            "lon": 48
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              48,
+              6
+            ]
+          },
+          "text": "Somalia",
+          "value": "Somalia",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "بيدوا"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ばいどあ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "バイドア"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "拜多阿"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baidoa"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "بيدوة"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ばいだぼ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "バイダボ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "拜达博"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydhabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydhowa"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baidabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydhabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydhaba"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydhabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydhabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baidoa"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baydabo"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Baidoa"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Baidoa",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:guq-caq-yoc-bes",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:fix-jin-hav-poz",
+      "listId": "fix-jin-hav-poz",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538257460,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3166977"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1467331200000,
+      "lastSeen": 1467331200000,
+      "firstSignificantSeen": 1467331200000,
+      "lastSignificantSeen": 1467331200000,
+      "lastSignificantUpdate": 1467331200000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3166977",
+          "name": "hyongjesan"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "North Korea"
+      ],
+      "enhancedRiskCountryCode": [
+        "KP"
+      ],
+      "profileLocations": [
+        {
+          "country": "North Korea",
+          "country_code": "KP",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Dem. Rep. Korea",
+          "country_centroid": "Dem. Rep. Korea:127.20357204305206:40.185023369045894",
+          "country_code": "KP",
+          "location": {
+            "lat": 40,
+            "lon": 127
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              127,
+              40
+            ]
+          },
+          "text": "Democratic People’S Republic Of Korea",
+          "value": "Democratic People’S Republic Of Korea",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ひょんじぇさん"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ヒョンジェサン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "兄弟山"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "兄弟山"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "兄弟山"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "형제산"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyongjesan"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyongjesan"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyŏngje-san"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyongjesan"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyongje-san"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyŏngjesan"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyŏngjesan"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyongjesan Guyok"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyŏngjesan"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hyongjesan-Guyok"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Hyongjesan",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:fix-jin-hav-poz",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:gad-gop-hub-keb",
+      "listId": "gad-gop-hub-keb",
+      "lists": [
+        {
+          "id": "dj:minor:85",
+          "name": "City",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:85",
+              "name": "City",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538257935,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:10009040"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1456790400000,
+      "lastSeen": 1456790400000,
+      "firstSignificantSeen": 1456790400000,
+      "lastSignificantSeen": 1456790400000,
+      "lastSignificantUpdate": 1456790400000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:10009040",
+          "name": "halabja"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Iraq"
+      ],
+      "enhancedRiskCountryCode": [
+        "IQ"
+      ],
+      "profileLocations": [
+        {
+          "country": "Iraq",
+          "country_code": "IQ",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Iraq",
+          "country_centroid": "Iraq:43.73034686802826:33.109779224954906",
+          "country_code": "IQ",
+          "location": {
+            "lat": 33,
+            "lon": 44
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              44,
+              33
+            ]
+          },
+          "text": "Republic Of Iraq",
+          "value": "Republic Of Iraq",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "حلبجة"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "はらぶじゃ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ハラブジャ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "哈莱卜杰"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Halabja"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Helepçe"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Halabja"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Halabdscha"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Halabjah"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Halabja"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Halabja",
+      "subtype": "city"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:gad-gop-hub-keb",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:mey-gej-kij-wit",
+      "listId": "mey-gej-kij-wit",
+      "lists": [
+        {
+          "id": "dj:minor:84",
+          "name": "Airport",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:84",
+              "name": "Airport",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538258134,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3167909"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1734048000000,
+      "lastSeen": 1734048000000,
+      "firstSignificantSeen": 1734048000000,
+      "lastSignificantSeen": 1734048000000,
+      "lastSignificantUpdate": 1734048000000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3167909",
+          "name": "dawei airport"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "identityNumbers": [
+        {
+          "type": "IATA Location ID Code",
+          "value": "TVY"
+        }
+      ],
+      "enhancedRiskCountry": [
+        "Myanmar"
+      ],
+      "enhancedRiskCountryCode": [
+        "MM"
+      ],
+      "profileLocations": [
+        {
+          "country": "Myanmar",
+          "country_code": "MM",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Myanmar",
+          "country_centroid": "Myanmar:96.48641885604367:21.336495919575242",
+          "country_code": "MM",
+          "location": {
+            "lat": 21,
+            "lon": 96
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              96,
+              21
+            ]
+          },
+          "text": "Union Of Burma",
+          "value": "Union Of Burma",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "primaryName",
+          "name": "ထားဝယ်လေဆိပ်"
+        },
+        {
+          "type": "primaryName",
+          "name": "だうぇーくうこう"
+        },
+        {
+          "type": "primaryName",
+          "name": "ダウェークウコウ"
+        },
+        {
+          "type": "primaryName",
+          "name": "ダウェー空港"
+        },
+        {
+          "type": "primaryName",
+          "name": "土瓦机场"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Flughafen Dawei"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeroport de Dawei"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aéroport de Dawei"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Flughafen Tavoy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Aeropuerto de Dawei"
+        },
+        {
+          "type": "formerlyKnownAs",
+          "name": "Aeroport de Tavoy"
+        },
+        {
+          "type": "formerlyKnownAs",
+          "name": "Aéroport de Tavoy"
+        },
+        {
+          "type": "formerlyKnownAs",
+          "name": "达维机场"
+        },
+        {
+          "type": "formerlyKnownAs",
+          "name": "Tavoy Airport"
+        },
+        {
+          "type": "formerlyKnownAs",
+          "name": "Aeropuerto de Tavoy"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Dawei Airport",
+      "subtype": "airport"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:mey-gej-kij-wit",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:sot-fub-lor-vot",
+      "listId": "sot-fub-lor-vot",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538259370,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3167498"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1464739200000,
+      "lastSeen": 1464739200000,
+      "firstSignificantSeen": 1464739200000,
+      "lastSignificantSeen": 1464739200000,
+      "lastSignificantUpdate": 1464739200000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3167498",
+          "name": "seiyun"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Yemen"
+      ],
+      "enhancedRiskCountryCode": [
+        "YE"
+      ],
+      "profileLocations": [
+        {
+          "country": "Yemen",
+          "country_code": "YE",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Yemen",
+          "country_centroid": "Yemen:47.55220311917004:15.949648202587696",
+          "country_code": "YE",
+          "location": {
+            "lat": 15.5,
+            "lon": 47.5
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              47.5,
+              15.5
+            ]
+          },
+          "text": "Republic Of Yemen",
+          "value": "Republic Of Yemen",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "سيئون"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "さゆんぐん"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "サユングン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "サユン郡"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "赛云"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Saiwun"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "さよんぐん"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "サヨングン"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "サヨン郡"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sayun"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sayun'"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Say'un"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Saiun"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sai'un"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Seiyoun"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sayun"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sayoun"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sayun"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Sayun"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Seiyun"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Saywun"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Seiyun",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:sot-fub-lor-vot",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:lus-jaf-zof-yuz",
+      "listId": "lus-jaf-zof-yuz",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538261006,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3164663"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1448928000000,
+      "lastSeen": 1448928000000,
+      "firstSignificantSeen": 1448928000000,
+      "lastSignificantSeen": 1448928000000,
+      "lastSignificantUpdate": 1448928000000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3164663",
+          "name": "kamenets district"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Belarus"
+      ],
+      "enhancedRiskCountryCode": [
+        "BY"
+      ],
+      "profileLocations": [
+        {
+          "country": "Belarus",
+          "country_code": "BY",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Belarus",
+          "country_centroid": "Belarus:28.04243245507037:53.57878468824302",
+          "country_code": "BY",
+          "location": {
+            "lat": 53,
+            "lon": 28
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              28,
+              53
+            ]
+          },
+          "text": "Republic Of Belarus",
+          "value": "Republic Of Belarus",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "Каменецкий район"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "Камянецкі раён"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "かめねつらよん"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "カメネツラヨン"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "卡梅涅茨地区"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "District de Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Distrito de Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Verwaltungsbezirk Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "District de Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Distrito de Kamianiec"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenets"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "Каменец"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "Камянец"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "Камянецкі раен"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "かみゃにぇつ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "カミャニェツ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "かみゃねつ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "カミャネツ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "かみゃねつちく"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "カミャネツチク"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "かみゃねつらよん"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "カミャネツラヨン"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "かみゃねつらよんちく"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "カミャネツラヨンチク"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "かめねつ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "カメネツ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "かめねつちく"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "カメネツチク"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "かめねつらよんちく"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "カメネツラヨンチク"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "卡梅涅茨"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "卡梅涅茨基"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "卡梅涅茨基地区"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetski"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetski Raion"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetski Raïon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskii"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskii"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskii District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskii rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskii rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskiirayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskiy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskiy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskiy District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskiy rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskiy rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskiyrayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetsky"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetsky"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetsky District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetsky rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetsky rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamenetskyrayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianets District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetski"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetski"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetski"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetski District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetski Raion"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetski Raïon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetski rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetski rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianetskirayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamianiec"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kaminets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamjanez"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanets District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanetski"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanetski"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanetski District"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanetski rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanetski rayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Kamyanetskirayon"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raion de Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raion de Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raión de Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raïon de Kamenets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raion de Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raïon de Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raion de Kamianiec"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Raión de Kamianiec"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Kamenetskii"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Kamenetskiy"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Kamenetsky"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Kamianetski"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Rajon Kamyanetski"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Verwaltungsbezirk Kamianets"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Verwaltungsbezirk Kamyanets"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Kamenets District",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:lus-jaf-zof-yuz",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:paw-xan-ses-may",
+      "listId": "paw-xan-ses-may",
+      "lists": [
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "active": false,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:90",
+              "name": "Sub-Region",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538261288,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:3164787"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1464739200000,
+      "lastSeen": 1464739200000,
+      "firstSignificantSeen": 1464739200000,
+      "lastSignificantSeen": 1464739200000,
+      "lastSignificantUpdate": 1464739200000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Inactive",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:3164787",
+          "name": "bouna department"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "enhancedRiskCountry": [
+        "Cote d'Ivoire"
+      ],
+      "enhancedRiskCountryCode": [
+        "CI"
+      ],
+      "profileLocations": [
+        {
+          "country": "Cote d'Ivoire",
+          "country_code": "CI",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Côte d'Ivoire",
+          "country_centroid": "Côte d'Ivoire:-5.569543964178531:7.636177280401782",
+          "country_code": "CI",
+          "location": {
+            "lat": 8,
+            "lon": -5.5
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              -5.5,
+              8
+            ]
+          },
+          "text": "Republic Of Côte D’Ivoire",
+          "value": "Republic Of Côte D’Ivoire",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ぶーなぶ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ブーナブ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ブーナ部"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "布纳省"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Departamento de Bouna"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bouna"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Département de Bouna"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ぶーな"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "ブーナ"
+        },
+        {
+          "type": "originalScriptName",
+          "name": "布纳"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bouna"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bouna"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Departement de Bouna"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Bouna"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Département de Bouna"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Departement de Bouna"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Bouna Department",
+      "subtype": "sub-region"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:paw-xan-ses-may",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  },
+  {
+    "document": {
+      "action": "add",
+      "id": "list_entity-urn:ripjar:jeh-vov-yac-fid",
+      "listId": "jeh-vov-yac-fid",
+      "lists": [
+        {
+          "id": "dj:minor:88",
+          "name": "Port",
+          "active": true,
+          "tags": [
+            "category"
+          ],
+          "hierarchy": [
+            {
+              "id": "dj:major:SIE",
+              "name": "Special Interest Entity (SIE)"
+            },
+            {
+              "id": "dj:mid:23",
+              "name": "Enhanced Country Risk",
+              "parent": "dj:major:SIE"
+            },
+            {
+              "id": "dj:minor:88",
+              "name": "Port",
+              "parent": "dj:mid:23"
+            }
+          ],
+          "listActive": true
+        }
+      ],
+      "metadata": {
+        "dates": {
+          "profileCreated": 1746530409475,
+          "profileUpdated": 1746538261859,
+          "arrival_client": 1752762463814
+        },
+        "provider": "ripjar",
+        "source": "Risk Profiles",
+        "dataSources": [
+          "sanctions and watchlists"
+        ],
+        "feed_id": 39,
+        "confidence": {},
+        "sourceProfileIds": [
+          "megaCombo_entity-urn:dowjones:10008176"
+        ]
+      },
+      "type": "location",
+      "firstSeen": 1451606400000,
+      "lastSeen": 1451606400000,
+      "firstSignificantSeen": 1451606400000,
+      "lastSignificantSeen": 1451606400000,
+      "lastSignificantUpdate": 1451606400000,
+      "naturalCreationDate": 1746530409475,
+      "profileNotes": "\r\n\n",
+      "activeStatus": "Active",
+      "significantDocuments": [],
+      "significantProfiles": [
+        {
+          "type": "list",
+          "profileId": "megaCombo_entity-urn:dowjones:10008176",
+          "name": "port of hormuz"
+        }
+      ],
+      "lastModifiedDate": "2025-05-06",
+      "identityNumbers": [
+        {
+          "type": "UN/LOCODE Location Code",
+          "value": "IRHOR"
+        }
+      ],
+      "enhancedRiskCountry": [
+        "Iran"
+      ],
+      "enhancedRiskCountryCode": [
+        "IR"
+      ],
+      "profileLocations": [
+        {
+          "country": "Iran",
+          "country_code": "IR",
+          "count": 1,
+          "tags": [
+            "list",
+            "explicit",
+            "enhancedRisk"
+          ]
+        },
+        {
+          "country": "Iran",
+          "country_centroid": "Iran:54.19276722269903:32.77186077414545",
+          "country_code": "IR",
+          "location": {
+            "lat": 32,
+            "lon": 53
+          },
+          "location_shape": {
+            "type": "Point",
+            "coordinates": [
+              53,
+              32
+            ]
+          },
+          "text": "Islamic Republic Of Iran",
+          "value": "Islamic Republic Of Iran",
+          "count": 1,
+          "tags": [
+            "list",
+            "inferred",
+            "enhancedRisk"
+          ]
+        }
+      ],
+      "aliases": [
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "بندر هرمز"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ほるむずこう"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ホルムズコウ"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "ホルムズ港"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "荷姆茲港"
+        },
+        {
+          "type": "originalScriptPrimaryName",
+          "name": "霍尔木兹港"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Hafen Hormuz"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Puerto de Hormuz"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Port d'Ormouz"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Port d'Ormuz"
+        },
+        {
+          "type": "alsoKnownAs",
+          "name": "Port d'Hormuz"
+        }
+      ],
+      "updateDetails": {
+        "id": "DCH:BULKSEND:2025-07-17T14:27",
+        "type": "BULKSEND",
+        "source": "DCH",
+        "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+        "forceSuppression": false,
+        "timestamp": 1752762454884
+      },
+      "name": "Port of Hormuz",
+      "subtype": "port"
+    },
+    "tasking": {
+      "derbyhat": {
+        "disableRecommendation": true,
+        "disableRollup": true,
+        "disableInfluence": true
+      }
+    },
+    "metadata": {
+      "id": "list_entity-urn:ripjar:jeh-vov-yac-fid",
+      "source": "ripjar",
+      "unfiltered": true,
+      "current_format": "text/plain",
+      "replaceContent": true
+    }
+  }
+]

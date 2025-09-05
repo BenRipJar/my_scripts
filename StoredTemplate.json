@@ -1,0 +1,112 @@
+{
+  "_id": "688a3c92ab6957c53b990d28",
+  "aliases": [
+    {
+      "type": "originalScriptPrimaryName",
+      "name": "Example Name 1"
+    },
+    {
+      "type": "alsoKnownAs",
+      "name": "Example Name 2"
+    },
+    {
+      "type": "originalScriptName",
+      "name": "Example Name 3"
+    },
+    {
+      "type": "formerlyKnownAs",
+      "name": "Example Former Name"
+    },
+    {
+      "type": "primaryName",
+      "name": "Example Primary Name"
+    }
+  ],
+  "associatedCountryCodes": ["EC", "IR"],
+  "loadOptions": {
+    "systemEvent": {
+      "id": "DCH:BULKSEND:2025-07-17T14:27",
+      "type": "BULKSEND",
+      "source": "DCH",
+      "description": "Backfill for profile reconciliation report uploaded for SYSTEM 548 at 2025-07-17T14:27",
+      "forceSuppression": false,
+      "timestamp": "1752762454884"
+    }
+  },
+  "name": "Example Location",
+  "profileId": "listEntity:list_entity-urn:ripjar:ben-tes-tda-ta1",
+  "subType": "sub-region",
+  "type": "location",
+  "tags": ["dj:minor:90", "dj:major:SIE", "dj:mid:23"],
+  "lists": [
+    {
+      "id": "dj:minor:90",
+      "name": "Sub-Region",
+      "description": "Example list description",
+      "active": true,
+      "tags": ["category"],
+      "listActive": true,
+      "additionalFields": [
+        {
+          "key": "example_key",
+          "value": "example_value"
+        }
+      ],
+      "hierarchy": [
+        {
+          "id": "dj:major:SIE",
+          "name": "Special Interest Entity (SIE)"
+        },
+        {
+          "id": "dj:mid:23",
+          "name": "Enhanced Country Risk",
+          "parent": "dj:major:SIE"
+        },
+        {
+          "id": "dj:minor:90",
+          "name": "Sub-Region",
+          "parent": "dj:mid:23"
+        }
+      ],
+      "sinceRange": {
+        "start": "1735689600000",
+        "end": "1735775999999",
+        "granularity": "day"
+      }
+    }
+  ],
+  "lastModifiedDate": "1746575999999",
+  "activeStatus": "ACTIVE",
+  "profileLocations": [
+    {
+      "country": "Iran",
+      "countryCentroid": "Iran:29.852193343157825:-19.025696405661748",
+      "countryCode": "IR",
+      "location": {
+        "lat": -19,
+        "lon": 29.75
+      },
+      "locationShape": {
+        "type": "Point",
+        "coordinates": [29.75, -19]
+      },
+      "text": "Republic Of Iran",
+      "value": "Republic Of Iran",
+      "count": 1,
+      "tags": ["list", "explicit", "enhancedRisk"]
+    }
+  ],
+  "lastSignificantUpdate": "1456790400000",
+  "clientKey": "global",
+  "dataSource": "list<>global",
+  "requestId": 6103,
+  "isspy_version": "3.24.0",
+  "_time": {
+    "id_first_seen": "2025-07-30 15:38:58.152473+00:00",
+    "last_stored": "2025-07-30 15:38:58.152473+00:00"
+  },
+  "baseline_version": "3.24.0",
+  "recordKey": "list<>global<>listEntity:list_entity-urn:ripjar:ben-tes-tda-ta1<>6103",
+  "entityKey": "list<>global<>listEntity:list_entity-urn:ripjar:ben-tes-tda-ta1",
+  "activeRecord": true
+}
