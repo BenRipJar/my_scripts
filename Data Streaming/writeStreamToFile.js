@@ -27,10 +27,11 @@ async function streamToFile(url, outputPath, options = {}) {
     contentType = "application/json",
   } = options;
 
-  try {
-    console.log(`Starting download from: ${url}`);
-    console.log(`Output file: ${outputPath}`);
+  console.log(`Starting download from: ${url}`);
+  console.log(`Output file: ${outputPath}`);
+  console.time("⏱️  Stream download");
 
+  try {
     // Create directory if it doesn't exist
     const dir = path.dirname(outputPath);
     if (!fs.existsSync(dir)) {
@@ -105,16 +106,19 @@ async function streamToFile(url, outputPath, options = {}) {
         if (showProgress) {
           console.log("\nDownload completed successfully!");
         }
+        console.timeEnd("⏱️  Stream download");
         resolve();
       });
 
       writer.on("error", (error) => {
         console.error("\nError writing to file:", error.message);
+        console.timeEnd("⏱️  Stream download");
         reject(error);
       });
 
       response.data.on("error", (error) => {
         console.error("\nError downloading data:", error.message);
+        console.timeEnd("⏱️  Stream download");
         reject(error);
       });
     });
@@ -129,6 +133,7 @@ async function streamToFile(url, outputPath, options = {}) {
     } else {
       console.error("Error:", error.message);
     }
+    console.timeEnd("⏱️  Stream download");
     throw error;
   }
 }
